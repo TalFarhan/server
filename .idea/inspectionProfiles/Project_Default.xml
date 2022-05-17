@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="sympy" />
+          <option value="numpy" />
+          <option value="main.infile" />
+          <option value="geo.proj2.QgsMapLayerRegistry" />
+          <option value="geo.proj2.QgsComposerLegend" />
+          <option value="cnn.load_img" />
+          <option value="cnn.np_array" />
+          <option value="tensorflow_datasets" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
